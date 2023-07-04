@@ -1,1 +1,1 @@
-3 merge test
+conflict merging test
