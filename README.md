@@ -1,1 +1,1 @@
-fast-forward merge test
+3 merge test
